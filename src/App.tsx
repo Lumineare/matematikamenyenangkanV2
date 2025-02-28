@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import ReactDOM from "react-dom/client";
-import Cookies from "js-cookie";
 import "./App.css";
 import correctSound from "./sounds/correct.mp3";
 import wrongSound from "./sounds/incorrect.mp3";
